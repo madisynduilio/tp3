@@ -1,14 +1,21 @@
 h1 {
   font-family: Arial;
+  font-size: 45px;
+   text-align: center;
+ text-shadow: 2px 4px 6px grey;
+  
 }
 
 h4 {
   margin-bottom: 0;
+ font-size: 25px;
 }
 
 ul,
 ol {
   margin-top: 0;
+  font-weight: bold;
+   font-family: "Trirong", serif;
 }
 
 .copyright {
@@ -16,3 +23,14 @@ ol {
   font-size: 9px;
   font-style: italic;
 }
+
+#myHeader {
+  background-color: lightblue;
+  padding: 40px;
+  box-sizing: content-box;
+   width: 5.5in;
+  font-family: "Trirong", serif;
+  
+}
+
+
